@@ -2,9 +2,9 @@
 
 Ph.D. Candidate
 
-Email: Yuren.Mao@unsw.edu.au
+Email: <Yuren.Mao@unsw.edu.au>
 
-DBLP: dblp.uni-trier.de/pid/268/1340.html
+[DBLP](dblp.uni-trier.de/pid/268/1340.html)
 
 ## Biography
 
@@ -17,16 +17,15 @@ Multi-task Learning and its applications.
 
 ## Publication
 
-\textbf{Yuren Mao}, Zekai Wang, Weiwei Liu, Xuemin Lin and Wenbin Hu. "BanditMTL: Bandit-based Multi-task Learning for Text Classification." ACL 2021.
+**Yuren Mao**, Zekai Wang, Weiwei Liu, Xuemin Lin and Wenbin Hu. "BanditMTL: Bandit-based Multi-task Learning for Text Classification." ACL 2021.
 
+**Yuren Mao**, Weiwei Liu, and Xuemin Lin. "Adaptive Adversarial Multi-task Representation Learning." ICML 2020.
 
-\textbf{Yuren Mao}, Weiwei Liu, and Xuemin Lin. "Adaptive Adversarial Multi-task Representation Learning." ICML 2020.
+**Yuren Mao**, Shuang Yun, Weiwei Liu, and Bo Du. "Tchebycheff procedure for multi-task text classification." ACL 2020.
 
-\textbf{Yuren Mao}, Shuang Yun, Weiwei Liu, and Bo Du. "Tchebycheff procedure for multi-task text classification." ACL 2020.
+**Yuren Mao**, Zekai Wang, Weiwei Liu, Xuemin Lin and Wenbin Hu. "Bandit-based Multi-Task Learning" (Submitted to TPAMI).
 
-\textbf{Yuren Mao}, Zekai Wang, Weiwei Liu, Xuemin Lin and Wenbin Hu. "Bandit-based Multi-Task Learning" (Submitted to TPAMI).
-
-\textbf{Yuren Mao}, Weiwei Liu, Xuemin Lin. "HyperMOO: Approaching Generalization Pareto Optimality  for Multi-task Learning" (Submitted to TNNLS).
+**Yuren Mao**, Weiwei Liu, Xuemin Lin. "HyperMOO: Approaching Generalization Pareto Optimality  for Multi-task Learning" (Submitted to TNNLS).
 
 ## Academic Services
 
