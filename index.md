@@ -1,5 +1,11 @@
 ## Yuren Mao
 
+Ph.D. Candidate
+
+Email: Yuren.Mao@unsw.edu.au
+
+DBLP: dblp.uni-trier.de/pid/268/1340.html
+
 ## Biography
 
 I am a fourth-year Ph.d. student of School of Computer Science and Engineering, University of New South Wales, Australia. Before that, I have been an algorithm engineer of Alipay, ANT GROUP, during which time I have been the system owner of online Fu(福) character recognition for Alipay WuFu Spring Festival (新春五福) 2018. I received my M.S. degree from Zhejiang University in 2017. 
